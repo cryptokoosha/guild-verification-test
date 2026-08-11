@@ -1,0 +1,2 @@
+# guild-verification-test
+test
